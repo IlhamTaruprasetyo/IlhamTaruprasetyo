@@ -19,7 +19,7 @@ Tech & Tools
 ---
 
 About
-- 🔭 Sedang mengerjakan: [GANTI — proyek utama/link]
+- 🔭 Sedang mengerjakan: [https://github.com/IlhamTaruprasetyo/E-Recruitment-Laravel.git]
 - 🌱 Sedang belajar: [GANTI — topik yang sedang dipelajari]
 - 👯 Terbuka untuk kolaborasi di backend, API, dan fullstack
 - 💬 Tanyakan tentang: Laravel, PostgreSQL, Python, PHP, React, Docker
