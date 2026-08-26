@@ -20,11 +20,10 @@ Tech & Tools
 
 About
 - 🔭 Sedang mengerjakan: [https://github.com/IlhamTaruprasetyo/E-Recruitment-Laravel.git]
-- 🌱 Sedang belajar: [GANTI — topik yang sedang dipelajari]
 - 👯 Terbuka untuk kolaborasi di backend, API, dan fullstack
 - 💬 Tanyakan tentang: Laravel, PostgreSQL, Python, PHP, React, Docker
 - 📫 Email: ilham@example.com
-- ⚡ Fakta menarik: [GANTI — satu fakta singkat]
+
 
 ---
 
@@ -48,13 +47,7 @@ Contributions:
 ---
 
 Get in touch
-- Email: ilham@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Blog: https://yourblog.example.com
+- Email: ilhamsetyo315@gmail.com
+- Instagram: ilhm_truprstyo
+- Portfolio: https://ilhamtaruprasetyo.web.id/
 
----
-
-Catatan:
-- Silakan edit bagian yang bertanda [GANTI] dengan informasimu.
-- Untuk menampilkan repo di profil, buka halaman profil GitHub → Customize your pins → pilih repos yang ingin dipin.
-- Mau saya personalisasi (bio + daftar 3 proyek + email)? Kirim informasinya, saya akan perbarui README ini.
