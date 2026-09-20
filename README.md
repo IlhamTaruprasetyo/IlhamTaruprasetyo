@@ -22,7 +22,7 @@ About
 - 🔭 Sedang mengerjakan: [https://github.com/IlhamTaruprasetyo/E-Recruitment-Laravel.git]
 - 👯 Terbuka untuk kolaborasi di backend, API, dan fullstack
 - 💬 Tanyakan tentang: Laravel, PostgreSQL, Python, PHP, React, Docker
-- 📫 Email: ilham@example.com
+- 📫 Email: ilhamsetyo315@gmail.com
 
 
 ---
