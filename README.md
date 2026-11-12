@@ -27,15 +27,6 @@ About
 
 ---
 
-Featured Projects
-- [project-a](https://github.com/IlhamTaruprasetyo/project-a) — Satu baris: ringkasan kenapa menarik.
-- [project-b](https://github.com/IlhamTaruprasetyo/project-b) — Satu baris.
-- [project-c](https://github.com/IlhamTaruprasetyo/project-c) — Satu baris.
-
-(Tambahkan 2–3 repo terbaikmu dan beri deskripsi singkat agar terlihat bagus saat dipinned di profil.)
-
----
-
 GitHub Stats
 
 ![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhamTaruprasetyo&show_icons=true&theme=radical)
